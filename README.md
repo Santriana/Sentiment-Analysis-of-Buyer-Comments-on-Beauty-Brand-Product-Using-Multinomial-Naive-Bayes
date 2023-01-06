@@ -1,1 +1,1 @@
-# Sentiment-Analysis-of-Buyer-Comments-on-Beauty-Brand-Product-in-Tokopedia-Using-Multinomial-Naive-Ba
+# Sentiment-Analysis-on-Beauty-Brand-Product-in-Tokopedia-Using-Multinomial-Naive-Bayes
